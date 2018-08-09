@@ -1,4 +1,4 @@
-# Test
+﻿# Test
 do it better!
 package 记事本;
 
@@ -49,6 +49,7 @@ public void jfame() {
 		// TODO Auto-generated method stub
 		RecordText A=new RecordText();
 		A.jfame();
+aaa
 	}
 
 }
